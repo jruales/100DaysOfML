@@ -6,7 +6,11 @@ Rules: https://github.com/llSourcell/100_Days_of_ML_Code
  
 **Today's Progress**: Finished reading Chapter 2 of the book. Grid search; feature importance; evaluating on the test set; launching, monitoring and maintaining the system.
 
-**Thoughts**: I especially liked the section "Launch, Monitor, and Maintain Your System". It explains about the process of having the pipeline running in practice, making sure to monitor it for performance degradation or corrupted data and re-train it every once in a while if the data distribution drifts. It also suggests having the system's performance evaluated by an expert or by mechanical turkers ("You need to plug the human evaluation pipeline into your system").
+**Thoughts**:
+
+I especially liked the section "Launch, Monitor, and Maintain Your System". It explains about the process of having the pipeline running in practice, making sure to monitor it for performance degradation or corrupted data and re-train it every once in a while if the data distribution drifts. It also suggests having the system's performance evaluated by an expert or by mechanical turkers ("You need to plug the human evaluation pipeline into your system").
+
+Quote from the chapter's conclusion: "it is probably preferable to be comfortable with the overall process and know three or four algorithms well rather than to spend all your time exploring advanced algorithms and not enough time on the overall process"
 
 
 ## Day 1: July 16, 2018
