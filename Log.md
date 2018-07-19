@@ -2,6 +2,19 @@
 
 Rules: https://github.com/llSourcell/100_Days_of_ML_Code
 
+
+## Day 3: July 18, 2018
+**Today's Progress**:
+
+Explored a bit through the SciKit Learn documentation; ended up reading some of the [APIs for Generalized Linear Models](http://scikit-learn.org/stable/modules/classes.html#module-sklearn.linear_model). I still haven't read through the more human-readable [guide about Generalized Linear Models](http://scikit-learn.org/stable/modules/linear_model.html#ridge-regression).
+
+Tried out Google CoLab Jupyter Notebooks (https://colab.research.google.com/). Ran a few of the linear models mentioned above with some synthetic data. Practiced using `??` and `?` in the Jupyter notebook to access the documentation.
+
+**Thoughts**:
+- Scikit-learn has a lot of different kinds of linear model variants available. Many more than I had expected.
+- CoLab is like Jupyter but with a "Material Design" visual style. The design looks pretty clean, and I was pleasantly surprised that they have a "Search in Stack Overflow" button when I get a Python error.
+
+
 ## Day 2: July 17, 2018
  
 **Today's Progress**: Finished reading Chapter 2 of the book. Grid search; feature importance; evaluating on the test set; launching, monitoring and maintaining the system.
