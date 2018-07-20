@@ -6,7 +6,7 @@ Rules: https://github.com/llSourcell/100_Days_of_ML_Code
 **Today's Progress**:
 
 - I read through the section "4.1. Pipeline and FeatureUnion: combining estimators" in the Scikit-Learn documentation http://scikit-learn.org/stable/modules/pipeline.html
-- Found this cool [Scikit-Learn Cheatsheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Scikit_Learn_Cheat_Sheet_Python.pdf) by DataCamp and went through it. I'm just missing to go through the part titled "Evaluate Your Model’s Performance" and the one titled "Tune Your Model".
+- Found this cool [Scikit-Learn Cheatsheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Scikit_Learn_Cheat_Sheet_Python.pdf) by DataCamp and started going through it. I'm still pending going through the part titled "Evaluate Your Model’s Performance" and the one titled "Tune Your Model".
 
 **Thoughts**: I think that Scikit-learn has finally "clicked" for me today. I like how everything has a standardized interface (fit(), transform(), predict(), etc.) and how you can build entire data pipelines combining different preprocessing and training steps.
 
