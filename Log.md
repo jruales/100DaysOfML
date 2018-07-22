@@ -2,6 +2,13 @@
 
 Rules: https://github.com/llSourcell/100_Days_of_ML_Code
 
+## Day 5: July 20, 2018
+**Today's Progress**:
+- Started reading the section about Tensorflow in Geron's book.
+
+**Thoughts**: TensorFlow is still confusing for me. Conceptually, I understand Tensorflow (I know what purpose it serves). But I still don't fully understand the mechanics of its API, which is more "low-level" than, say, Keras. I'm not sure of why we need the concept of Sessions. I'm also not sure why there is a need for Graph objects; can't graphs be inferred based on connectivity?
+
+
 ## Day 4: July 19, 2018
 **Today's Progress**:
 
