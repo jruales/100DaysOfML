@@ -2,7 +2,7 @@
 
 Rules: https://github.com/llSourcell/100_Days_of_ML_Code
 
-## Day 5: July 20, 2018
+## Day 5: July 21, 2018
 **Today's Progress**:
 - Started reading the section about Tensorflow in Geron's book.
 
