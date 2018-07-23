@@ -4,8 +4,13 @@ Rules: https://github.com/llSourcell/100_Days_of_ML_Code
 
 ## Day 6: July 22, 2018
 **Today's Progress**:
-- Continued learning about TensorFlow in Geron's book
-- Reviewed about the different types of computational differentiation, in the appendix of the same book
+- Continued learning about TensorFlow in Geron's book (Linear Regression with TensorFlow, Implementing Gradient Descent, Feeding Data to the Training Algorithm, Saving and Restoring Models, Visualizing the Graph and Training Curves Using TensorBoard, Name Scopes)
+- Reviewed the different types of computational differentiation in the appendix of the same book:
+  - Manual Differentiation: deriving the formula for the derivative by hand and explicitly coding it
+  - Symbolic Differentiation: based on a computation graph, follow rules to create a new graph that computes the derivative
+  - Numerical Differentiation: compute ((f(x, y) - f(x + epsilon, y)) / epsilon) for some small epsilon (note: the answer can be very inexact depending on the function and on the epsilon)
+  - Forward-Mode Autodiff: compute f(x+epsilon, y) using algebra on [dual numbers](https://en.wikipedia.org/wiki/Dual_number). Uses the property that f(x+epsilon, y) = d(x, y) + d/dx f(x, y) * epsilon, where epsilon is defined as a number with the properties that epsilon != 0 and epsilon*epsilon=0.
+  - Reverse-Mode Autodiff: forward and backward pass on the original computation graph. TensorFlow uses reverse-mode autodiff.
 
 ## Day 5: July 21, 2018
 **Today's Progress**:
