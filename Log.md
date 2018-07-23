@@ -2,6 +2,11 @@
 
 Rules: https://github.com/llSourcell/100_Days_of_ML_Code
 
+## Day 6: July 22, 2018
+**Today's Progress**:
+- Continued learning about TensorFlow in Geron's book
+- Reviewed about the different types of computational differentiation, in the appendix of the same book
+
 ## Day 5: July 21, 2018
 **Today's Progress**:
 - Started reading the section about Tensorflow in Geron's book.
