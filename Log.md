@@ -4,7 +4,7 @@ Rules: https://github.com/llSourcell/100_Days_of_ML_Code
 
 ## Day 7: July 23, 2018
 **Today's Progress**:
-- Went through [this tutorial](https://bbengfort.github.io/tutorials/2016/05/19/text-classification-nltk-sckit-learn.html) to to apply Natural Language Processing (tokenization, lemmatization, tf-idf) in NLTK and SciKit-Learn.
+- Went through [this tutorial](https://bbengfort.github.io/tutorials/2016/05/19/text-classification-nltk-sckit-learn.html) to apply Natural Language Processing (tokenization, lemmatization, tf-idf) in NLTK and SciKit-Learn.
 - Installed a dark theme for Jupyter Notebook 😎 ([Jupyter Themes](https://github.com/dunovank/jupyter-themes)).
 
 ## Day 6: July 22, 2018
