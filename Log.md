@@ -2,6 +2,10 @@
 
 Rules: https://github.com/llSourcell/100_Days_of_ML_Code
 
+## Day 7: July 23, 2018
+**Today's Progress**:
+- Went through [this tutorial](https://bbengfort.github.io/tutorials/2016/05/19/text-classification-nltk-sckit-learn.html) to learn about applying Natural Language Processing (tokenization, lemmatization, tf-idf) in NLTK and SciKit-Learn.
+
 ## Day 6: July 22, 2018
 **Today's Progress**:
 - Continued learning about TensorFlow in Geron's book (Linear Regression with TensorFlow, Implementing Gradient Descent, Feeding Data to the Training Algorithm, Saving and Restoring Models, Visualizing the Graph and Training Curves Using TensorBoard, Name Scopes)
