@@ -5,7 +5,7 @@ Rules: https://github.com/llSourcell/100_Days_of_ML_Code
 ## Day 8: July 24, 2018
 **Today's Progress**:
 - Continued working on the tutorial from yesterday
-- Experimented with clustering of the tf-idf vectors
+- Experimented with clustering of the tf-idf vectors that I had created for the tutorial
 
 ## Day 7: July 23, 2018
 **Today's Progress**:
