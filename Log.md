@@ -2,6 +2,11 @@
 
 Rules: https://github.com/llSourcell/100_Days_of_ML_Code
 
+## Day 8: July 24, 2018
+**Today's Progress**:
+- Continued working on the tutorial from yesterday
+- Experimented with clustering of the tf-idf vectors
+
 ## Day 7: July 23, 2018
 **Today's Progress**:
 - Went through [this tutorial](https://bbengfort.github.io/tutorials/2016/05/19/text-classification-nltk-sckit-learn.html) to apply Natural Language Processing (tokenization, lemmatization, tf-idf) in NLTK and SciKit-Learn.
