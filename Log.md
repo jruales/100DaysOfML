@@ -2,6 +2,9 @@
 
 Rules: https://github.com/llSourcell/100_Days_of_ML_Code
 
+## Day 9: July 25, 2018
+**Today's Progress**: Created a PowerPoint and video presentation of applying the findings from the previous two days to a custom dataset
+
 ## Day 8: July 24, 2018
 **Today's Progress**:
 - Continued working on the tutorial from yesterday
