@@ -2,6 +2,11 @@
 
 Rules: https://github.com/llSourcell/100_Days_of_ML_Code
 
+## Day 10: July 26, 2018
+**Today's Progress**: Continued reading the book by A. Géron.
+- Read about Modularity, and Sharing Variables in TensorFlow.
+- Then flipped back to the first half of the book to learn about applying and evaluating classification algorithms in Scikit-Learn.
+
 ## Day 9: July 25, 2018
 **Today's Progress**: Created a PowerPoint and video presentation of applying the findings from the previous two days to a custom dataset. This was for the Microsoft Hackathon.
 
