@@ -2,6 +2,11 @@
 
 Rules: https://github.com/llSourcell/100_Days_of_ML_Code
 
+## Day 11: July 28, 2018
+**Today's Progress**:
+- Continued reading a little bit of the book by A. Géron. Read the part about evaluation of binary or multiclass classifiers with Precision/Recall, ROC curves, and ROC area under curve
+- Finally conquered my fear of submitting a script to Kaggle. As my "Hello World", I made a submission to the [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer) contest. I wrote the code directly in a Kaggle kernel (Jupyter notebook style) and submitted the solution produced by that notebook. Since for me this was simply a "Hello World", I used a super simple linear SGDClassifier classifier with no customizations, which scored a really low 85.8% accuracy. This put me at position 2483 out of 2645 in the contest 😅.
+
 ## Day 10: July 26, 2018
 **Today's Progress**: Continued reading the book by A. Géron.
 - Read about Modularity, and Sharing Variables in TensorFlow.
