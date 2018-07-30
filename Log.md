@@ -2,6 +2,15 @@
 
 Rules: https://github.com/llSourcell/100_Days_of_ML_Code
 
+## Day 12: July 29, 2018
+**Today's Progress**:
+- Continued with A. Géron's book. Multilabel Classification, Multioutput Classification. Started Chaper 4 ("Training Models"). Linear Regression: The Normal Equation, Computational Complexity. Jumped over the sections on Batch Gradient Descent, Stochastic Gradient Descent, and Mini-Batch Gradient Descent, because I had already gone through them (on day 6?). Continued with Polinomial Regression, Learning Curves, The Bias/Variance Tradeoff. 
+- Read about "[Bias–variance decomposition of squared error](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff#Bias%E2%80%93variance_decomposition_of_squared_error)" on Wikipedia. Instead of the usual hand-wavy description of the bias-variance tradeoff, this section actually shows a decomposition in mathematical terms of expected square error into bias, variance, and a randomness term.
+
+**Thoughts**:
+- It's the first time I see learning curves being plotted as a function of training set size (which requires retraining from scratch for size 1, then for size 2, etc.). Before, I had only known about learning curves as a function of training iteration.
+- It's great to learn about the actual Bias-Variance decomposition in rigorous terms. However, I don't think that this decomposition really shows that there is a tradeoff or tension between these two -- as far as I know, there's nothing that constrains the equation such that one *has* to go down when the other goes up. I need to better understand if there's a rigorous proof in terms of this decomposition actually causing a tradeoff to occur.
+
 ## Day 11: July 28, 2018
 **Today's Progress**:
 - Continued reading a little bit of the book by A. Géron. Read the part about evaluation of binary or multiclass classifiers with Precision/Recall, ROC curves, and ROC area under curve. Also learned that when doing multi-class classification with binary classifiers, Scikit-Learn uses a one-vs-the-rest approach in most cases, but it uses a one-vs-one approach for SVMs for efficiency.
