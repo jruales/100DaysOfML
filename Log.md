@@ -2,6 +2,13 @@
 
 Rules: https://github.com/llSourcell/100_Days_of_ML_Code
 
+## Day 13: July 30, 2018
+**Today's Progress**: Trying to learn a bit more about the bias-variance tradeoff.
+- Book "Pattern Recognition and Machine Learning" by C. Bishop. Section 3.2 "The Bias-Variance Decomposition"
+- https://ocw.mit.edu/courses/sloan-school-of-management/15-097-prediction-machine-learning-and-statistics-spring-2012/lecture-notes/MIT15_097S12_lec04.pdf
+- https://elitedatascience.com/bias-variance-tradeoff
+- Played a bit with a jupyter notebook doing some polynomial regressions with data of small sample size to experiment with overfitting
+
 ## Day 12: July 29, 2018
 **Today's Progress**:
 - Continued with A. Géron's book. Multilabel Classification, Multioutput Classification. Started Chaper 4 ("Training Models"). Linear Regression: The Normal Equation, Computational Complexity. Jumped over the sections on Batch Gradient Descent, Stochastic Gradient Descent, and Mini-Batch Gradient Descent, because I had already gone through them (on day 6?). Continued with Polinomial Regression, Learning Curves, The Bias/Variance Tradeoff. 
