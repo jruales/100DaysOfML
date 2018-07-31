@@ -7,6 +7,7 @@ Rules: https://github.com/llSourcell/100_Days_of_ML_Code
 - Book "Pattern Recognition and Machine Learning" by C. Bishop. Section 3.2 "The Bias-Variance Decomposition"
 - https://ocw.mit.edu/courses/sloan-school-of-management/15-097-prediction-machine-learning-and-statistics-spring-2012/lecture-notes/MIT15_097S12_lec04.pdf
 - https://elitedatascience.com/bias-variance-tradeoff
+- http://www.r2d3.us/visual-intro-to-machine-learning-part-2/
 - Played a bit with a jupyter notebook doing some polynomial regressions with data of small sample size to experiment with overfitting
 
 ## Day 12: July 29, 2018
