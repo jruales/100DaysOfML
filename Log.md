@@ -10,6 +10,10 @@ Rules: https://github.com/llSourcell/100_Days_of_ML_Code
 - http://www.r2d3.us/visual-intro-to-machine-learning-part-2/
 - Played a bit with a jupyter notebook doing some polynomial regressions with data of small sample size to experiment with overfitting
 
+**Thoughts**:
+- I still haven't found a proof that bias necessarily needs to go down when variance goes up and vice versa given a certain problem with a given sample size. Am I missing something?
+- The bias-variance decomposition seems to be framed as a regression problem with sum of squares loss. Is there such a decomposition for classification problems? What about for problems that don't have a square loss?
+
 ## Day 12: July 29, 2018
 **Today's Progress**:
 - Continued with A. Géron's book. Multilabel Classification, Multioutput Classification. Started Chaper 4 ("Training Models"). Linear Regression: The Normal Equation, Computational Complexity. Jumped over the sections on Batch Gradient Descent, Stochastic Gradient Descent, and Mini-Batch Gradient Descent, because I had already gone through them (on day 6?). Continued with Polinomial Regression, Learning Curves, The Bias/Variance Tradeoff. 
