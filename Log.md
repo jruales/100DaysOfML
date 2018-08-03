@@ -2,6 +2,9 @@
 
 Rules: https://github.com/llSourcell/100_Days_of_ML_Code
 
+## Day 14: August 2, 2018
+**Today's Progress**: Watched a recording of an NLP presentation from an internal Microsoft ML conference.
+
 ## Day 13: July 30, 2018
 **Today's Progress**: Trying to learn a bit more about the bias-variance tradeoff.
 - Book "Pattern Recognition and Machine Learning" by C. Bishop. Section 3.2 "The Bias-Variance Decomposition"
