@@ -5,7 +5,7 @@ Rules: https://github.com/llSourcell/100_Days_of_ML_Code
 ## Day 15: August 5, 2018
 **Today's Progress**:
 - Continued reading the book by A. Géron
-  - Chapter 4 (Training Models) sections "Recularized Linear Models" (Ridge Regression, Lasso Regression)
+  - Chapter 4 (Training Models) sections "Regularized Linear Models" (Ridge Regression, Lasso Regression)
   - Finished reading Chapter 9 (Up and Running with TensorFlow)
   - Started building an MNIST logistic regression classifier using TensorFlow in a Colab notebook. I'm not following any tutorial but rather just trying to use the code snippets from this chapter in the book, or the TensorFlow API documentation. I managed to get the training to work, but now I just need to find out how to compute the accuracy of the trained model on the test set.
 
