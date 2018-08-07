@@ -2,6 +2,9 @@
 
 Rules: https://github.com/llSourcell/100_Days_of_ML_Code
 
+## Day 16: August 6, 2018
+**Today's Progress**: Similarly to Day 14, Watched a recording of another NLP presentation from the same Microsoft ML conference.
+
 ## Day 15: August 5, 2018
 **Today's Progress**:
 - Continued reading the book by A. Géron
