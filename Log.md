@@ -2,6 +2,11 @@
 
 Rules: https://github.com/llSourcell/100_Days_of_ML_Code
 
+## Day 17: August 7, 2018
+**Today's Progress**: Started going through the [Community Starter Kit](https://lab.github.com/courses/community-starter-kit) from [GitHub courses](https://lab.github.com/courses).
+
+**Discussion:** Although a bit tangential to Machine Learning, I think it's important for me to have a more in-depth understanding of GitHub--especially about issues, pull requests, community contributions, etc. This will allow me to contribute to open-source Machine Learning libraries or start my own in the future.
+
 ## Day 16: August 6, 2018
 **Today's Progress**: Similarly to Day 14, Watched a recording of another NLP presentation from the same Microsoft ML conference.
 
