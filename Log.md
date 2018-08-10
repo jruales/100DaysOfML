@@ -3,7 +3,11 @@
 Rules: https://github.com/llSourcell/100_Days_of_ML_Code
 
 ## Day 18: August 9, 2018
-**Today's Progress**: Read a bit of the book "Artificial Intelligence: A Modern Approach" by Russell and Norvig. Read section 23.4 (Machine Translation) and Section 20.3.1 (Unsupervised clustering: Learning mixtures of Gaussians). The section on Machine Translation gave an overview of the problem and the possible approaches, and then went over an example approach that separates sentences into phrases and trains a model based on phrase correspondences and based on a "distortion model" which basically measures how often phrases swap order during the traslation process and by how much they shift during these permutations.
+**Today's Progress**: Read a bit of the book "Artificial Intelligence: A Modern Approach" by Russell and Norvig. Read section 23.4 (Machine Translation) and Section 20.3.1 (Unsupervised clustering: Learning mixtures of Gaussians).
+
+**Discussion:**
+- The section on Machine Translation gave an overview of the problem and the possible approaches, and then went over an example approach that separates sentences into phrases and trains a model based on phrase correspondences and based on a "distortion model" which basically measures how often phrases swap order during the traslation process and by how much they shift during these permutations.
+- When reviewing the EM algorithm, I realized that the k-means algorithm doesn't exactly fit the probabilistic algorithm defined by EM, since it uses minimum distances to group into clusters instead of defining likelihoods. K-means is like a simplified version of EM.
 
 ## Day 17: August 7, 2018
 **Today's Progress**: Started going through the [Community Starter Kit](https://lab.github.com/courses/community-starter-kit) from [GitHub courses](https://lab.github.com/courses).
