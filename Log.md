@@ -3,7 +3,9 @@
 Rules: https://github.com/llSourcell/100_Days_of_ML_Code
 
 ## Day 19.5: August 12, 2018
-**Today's Progress**: Learned about TensorFlow eager execution: https://www.youtube.com/watch?v=T8AW0fKP0Hs&list=PLQY2H8rRoyvxjVx3zfw4vA4cvlKogyLNN&index=8 .
+**Today's Progress**:
+- Learned about TensorFlow eager execution: https://www.youtube.com/watch?v=T8AW0fKP0Hs&list=PLQY2H8rRoyvxjVx3zfw4vA4cvlKogyLNN&index=8 .
+- Also learned about this repository of examples for TensorFlow eager: https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/eager/python/examples
 
 ## Day 19: August 11, 2018
 **Today's Progress**: A bit of a mixed bag today:
