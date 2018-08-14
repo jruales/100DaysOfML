@@ -2,6 +2,9 @@
 
 Rules: https://github.com/llSourcell/100_Days_of_ML_Code
 
+## Day 19.5: August 12, 2018
+**Today's Progress**: Learned about TensorFlow eager execution: https://www.youtube.com/watch?v=T8AW0fKP0Hs&list=PLQY2H8rRoyvxjVx3zfw4vA4cvlKogyLNN&index=8 .
+
 ## Day 19: August 11, 2018
 **Today's Progress**: A bit of a mixed bag today:
 - Read chapters 20-22 of Andrew Ng's _Machine Learning Yearning_ book. The chapter names were "Bias and Variance: The two big sources of error", "Examples of Bias and Variance", and "Comparing to the optimal error rate". A. Ng prefers a hand-wavy definition of Bias and Variance that is a bit different than the rigorous one defined in Statistics. He considere the bias to be the error in the training set, and the variance to be the difference in error between the test set and the training set.
