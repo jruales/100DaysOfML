@@ -6,6 +6,7 @@ Rules: https://github.com/llSourcell/100_Days_of_ML_Code
 **Today's Progress**:
 - Finished reading _Chapter 10 Introduction to Artificial Neural Networks_ (in TensorFlow).
 - Read _Appendix E: Other Popular ANN Architectures_, which briefly goes over Hopfield Networks, Boltzmann Machines, Restricted Boltzmann Machines, Deep Belief Nets, and Self-Organizing Maps
+- Learned more about how exactly the Python `with` statement works: http://effbot.org/zone/python-with-statement.htm
 
 ## Day 20: August 17, 2018
 **Today's Progress**: Continued reading the book by A. Géron. Started reading _Chapter 10 Introduction to Artificial Neural Networks_ (in TensorFlow)
