@@ -2,6 +2,14 @@
 
 Rules: https://github.com/llSourcell/100_Days_of_ML_Code
 
+## Day 21: August 18, 2018
+**Today's Progress**:
+- Finished reading _Chapter 10 Introduction to Artificial Neural Networks_ (in TensorFlow).
+- Read _Appendix E: Other Popular ANN Architectures_, which briefly goes over Hopfield Networks, Boltzmann Machines, Restricted Boltzmann Machines, Deep Belief Nets, and Self-Organizing Maps
+
+## Day 20: August 17, 2018
+**Today's Progress**: Continued reading the book by A. Géron. Started reading _Chapter 10 Introduction to Artificial Neural Networks_ (in TensorFlow)
+
 ## Day 19.5: August 12, 2018
 **Today's Progress**:
 - Learned about TensorFlow eager execution: https://www.youtube.com/watch?v=T8AW0fKP0Hs&list=PLQY2H8rRoyvxjVx3zfw4vA4cvlKogyLNN&index=8 .
