@@ -2,6 +2,19 @@
 
 Rules: https://github.com/llSourcell/100_Days_of_ML_Code
 
+## Day 22: August 19, 2018
+**Today's Progress**:
+- Started _Chapter 11: Training Deep Neural Nets_. Sections:
+  - Vanishing/Exploding Gradients Problems
+  - Xavier and He Initialization
+  - Nonsaturating Activation Functions
+  - Batch Normalization; Implementing Batch Normalization with TensorFlow
+  - Gradient Clipping
+
+**Thoughts**:
+- The book mentions that, in general, in terms of how good activation functions are for deep learning: ELU > leaky ReLU (and its variants) > ReLU > tanh > logistic. I used to think that ReLU was better and more popular than ELU, but I'll give ELU another try. The book does note that ELU is more expensive to compute compared to ReLU, though, due to the exponential function.
+- I like that the book's definition of Batch Normalization is very clear and straightforward, and it makes sure to explain what is the difference in it during training vs inferencing.
+
 ## Day 21: August 18, 2018
 **Today's Progress**:
 - Finished reading _Chapter 10 Introduction to Artificial Neural Networks_ (in TensorFlow).
