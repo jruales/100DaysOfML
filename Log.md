@@ -2,6 +2,13 @@
 
 Rules: https://github.com/llSourcell/100_Days_of_ML_Code
 
+## Day 23: August 20, 2018
+**Today's Progress**: Read Chapter 1 (_The Basics_) of the book _A Tour of C++_ by Bjarne Stroustrup
+
+**Thoughts**:
+- I learned about this book from "[The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)" at Stack Overflow. I've been wanting to get better at C++ for a long time, and so I was excited to start this book. Becoming better at C++ could be useful if I were to [create a custom TensorFlow Op](https://www.tensorflow.org/extend/adding_an_op) in the future.
+- I really like this book's approach of catering to people who are already familiar with programming, and giving a bird's eye overview of the language. I think that the book is pretty well written (so far, at least), and I'm wondering if there are books of this style available for other programming languages.
+
 ## Day 22: August 19, 2018
 **Today's Progress**:
 - Started _Chapter 11: Training Deep Neural Nets_. Sections:
