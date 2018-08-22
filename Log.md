@@ -2,6 +2,9 @@
 
 Rules: https://github.com/llSourcell/100_Days_of_ML_Code
 
+## Day 24: August 20, 2018
+**Today's Progress**: Read Chapter 2 (_User-Defined Types_) of the book _A Tour of C++_.
+
 ## Day 23: August 20, 2018
 **Today's Progress**: Read Chapter 1 (_The Basics_) of the book _A Tour of C++_ by Bjarne Stroustrup
 
