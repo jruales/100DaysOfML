@@ -2,7 +2,12 @@
 
 Rules: https://github.com/llSourcell/100_Days_of_ML_Code
 
-## Day 24: August 20, 2018
+## Day 25: August 23, 2018
+**Today's Progress**:
+- Experimented a bit more with the MNIST Kaggle kernel that I had created on Day 11. I ended up removing the SGDClassifier and using an MLPClassifier (multi-layer perceptron) instead. Additionally, I added a MinMaxScaler to ensure that the features were in the range [0, 1]. These simple changes made the classifier achieve an accuracy of 0.97614 (a bit better than the 0.85814 obtained before).
+- Started making a neural network similar to LeNet-5 in TensorFlow for the same dataset.
+
+## Day 24: August 21, 2018
 **Today's Progress**: Read Chapter 2 (_User-Defined Types_) of the book _A Tour of C++_.
 
 ## Day 23: August 20, 2018
