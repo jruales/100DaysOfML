@@ -2,6 +2,15 @@
 
 Rules: https://github.com/llSourcell/100_Days_of_ML_Code
 
+## Day 26: August 25, 2018
+**Today's Progress**:
+- Went over the slides of the presentation "I Don't like Notebooks" by Joel Grus - https://docs.google.com/presentation/d/1n2RlMdmv1p25Xy5thJUhkKGvjtV-dkAIsUXP-AL4ffI/preview?slide=id.g362da58057_0_1
+- Watched the livecoding video "Joel Grus - Livecoding Madness - Let's Build a Deep Learning Library": https://www.youtube.com/watch?v=o64FV-ez6Gw
+
+**Thoughts**:
+- J. Grus makes some pretty valid points about the drawbacks of Jupyter Notebooks. Lets hope that in the future JupyterLab matures into an IDE that supports best practices and better ease of use. While I still enjoying using Jupyter Notebooks in some situations, I will try to be more conscious about best practices and will try to combine Jupyter with external Python classes to make the code easier to manage and reuse.
+- I enjoyed the live-coding session. I've been thinking about how I learn human languages as compared to computer languages, and I've realized that I would like to have a more immersive experience when learning computer languages. While with human languages I normally consume all sorts of media (movies, music, video games) in the target language before even learning how to produce sentences, I feel like I don't do this as much with computer languages. I think it would be helpful for me to read more programs and see more coding from people who are "fluent" in the programming language or library, so that I'm more prepared when it's time for me to write the code.
+
 ## Day 25: August 23, 2018
 **Today's Progress**:
 - Experimented a bit more with the MNIST Kaggle kernel that I had created on Day 11. I ended up removing the SGDClassifier and using an MLPClassifier (multi-layer perceptron) instead. Additionally, I added a MinMaxScaler to ensure that the features were in the range [0, 1]. These simple changes made the classifier achieve an accuracy of 0.97614 (a bit better than the 0.85814 obtained before).
