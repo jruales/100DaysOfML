@@ -2,6 +2,11 @@
 
 Rules: https://github.com/llSourcell/100_Days_of_ML_Code
 
+## Day 27: August 25, 2018
+**Today's Progress**:
+- Finished Chapter 3 (_Modularity_) of the book _A Tour of C++_.
+- Finished reading Chapter 2 ("Up and Running With TensorFlow") and started reading Chapter 3 ("Understanding TensorFlow Basics") of the book _Learning TensorFlow_ by T. Hope, Y.S. Resheff, and I Lieder
+
 ## Day 26: August 25, 2018
 **Today's Progress**:
 - Went over the slides of the presentation "I Don't like Notebooks" by Joel Grus - https://docs.google.com/presentation/d/1n2RlMdmv1p25Xy5thJUhkKGvjtV-dkAIsUXP-AL4ffI/preview?slide=id.g362da58057_0_1
