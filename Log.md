@@ -2,6 +2,20 @@
 
 Rules: https://github.com/llSourcell/100_Days_of_ML_Code
 
+## Day 28: January 12, 2018
+**Today's Progress**:
+- Learning about the paper "Attention Is All You Need" related to machine translation. I decided to read it because it was mentioned as one of the state-of-the-art techniques in machine translation, plus it was the 2nd most-bookmarked paper of all time on arxiv-sanity.
+  - Ongoing resources:
+    - [Paper on arXiv](https://arxiv.org/abs/1706.03762)
+    - [Paper on arxiv-vanity](https://www.arxiv-vanity.com/papers/1706.03762/)
+    - [Paper on arxiv-sanity](http://www.arxiv-sanity.com/1706.03762v5) - See similar papers based on tf-idf
+  - Resources used and already done with:
+    - [YouTube video - Attention is all you need attentional neural network models – Łukasz Kaiser](https://www.youtube.com/watch?v=rBCqOTEfxvg)
+  - Resources in progress or to be used later:
+    - [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html) - The paper presented along an annotated implementation
+    - [halfway through it] [YouTube - Attention is all you need - by Yannic Kilcher](https://www.youtube.com/watch?v=iDulhoQ2pro&t=973s)
+    
+
 ## Day 27: August 25, 2018
 **Today's Progress**:
 - Finished Chapter 3 (_Modularity_) of the book _A Tour of C++_.
